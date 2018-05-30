@@ -1,4 +1,0 @@
-Progdi 		: Informatika
-Jurusan		: Informatika
-Fakultas		: Fakultas Teknologi Informasi dan Komunikasi
-Universitas 	: Universitas Semarang
